@@ -1,0 +1,13 @@
+# Google credentials
+credentials.json
+bak_credentials.json.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
